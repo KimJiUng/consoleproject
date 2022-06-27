@@ -18,5 +18,9 @@
 # 3. 개발 기간
 22/03/24 ~ 22/03/29
 
+# 4. 화면
+![image](https://user-images.githubusercontent.com/100548008/175897516-27ec147e-c84c-4fd9-b7fb-4da12d00ddc3.png)
+
+
 # 4. 시연 영상 (Youtube 링크)
 https://youtu.be/JAPtBsYc8is
