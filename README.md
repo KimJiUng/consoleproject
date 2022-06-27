@@ -25,4 +25,3 @@
 
 
 # 4. 시연 영상 (Youtube 링크)
-https://youtu.be/JAPtBsYc8is
